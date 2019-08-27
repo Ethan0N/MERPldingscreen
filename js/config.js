@@ -97,7 +97,7 @@ var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
