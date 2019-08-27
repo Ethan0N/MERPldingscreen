@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/LGBT.mp3", name: "Mass Effect - Invasion"}
+	{ogg: "songs/LGBT.ogg", name: "Mass Effect - Invasion"}
 ];
 
 /*Random music order?*/
